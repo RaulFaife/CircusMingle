@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <Router>
         <Switch>
-        <Route path="/chat/:person">
+          <Route path="/chat/:person">
             <Header backButton="/chat"/>
             <ChatScreen />
           </Route>
