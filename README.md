@@ -1,3 +1,3 @@
 # CircusMingle
-Clowns Meet - Clown Tinder
-Created Icon/Logo for the website "pch.vector" (featuring assets by Freepik)
+Clowns Meet - Clown Tinder <br>
+featuring assets by pch.vector on Freepik
